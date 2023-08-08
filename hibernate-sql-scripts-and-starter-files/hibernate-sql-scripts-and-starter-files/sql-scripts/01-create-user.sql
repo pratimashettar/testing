@@ -13,3 +13,4 @@ GRANT ALL PRIVILEGES ON * . * TO 'hbstudent'@'localhost';
 # https://dev.mysql.com/doc/refman/8.0/en/caching-sha2-pluggable-authentication.html
 #
 ALTER USER 'hbstudent'@'localhost' IDENTIFIED WITH mysql_native_password BY 'hbstudent';
+#changed 
